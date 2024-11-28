@@ -1,7 +1,9 @@
-# created by virtualenv automatically
+# Created by virtualenv automatically
 # Ignore virtual environment directories
 venv/
 env/
+Lib/
+Scripts/
 
 # Ignore VSCode settings
 .vscode/
@@ -14,7 +16,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Ignore audio and video files (if not needed in the repo)
+# Ignore audio and video files
 *.mp3
 *.wav
 *.mp4
@@ -23,5 +25,5 @@ Thumbs.db
 pyvenv.cfg
 packages.txt
 
-# Ignore IDE-related files (such as temporary files)
+# Ignore IDE-related files
 *.log
