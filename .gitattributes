@@ -1,0 +1,8 @@
+# Normalize line endings for text files
+*.py text eol=lf
+*.ipynb text eol=lf
+*.txt text eol=lf
+
+# Handle binary files
+*.png binary
+*.jpg binary
