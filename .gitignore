@@ -1,0 +1,27 @@
+# created by virtualenv automatically
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python bytecode and cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore audio and video files (if not needed in the repo)
+*.mp3
+*.wav
+*.mp4
+
+# Ignore virtual environment configuration files
+pyvenv.cfg
+packages.txt
+
+# Ignore IDE-related files (such as temporary files)
+*.log
