@@ -14,7 +14,7 @@ tomli==2.0.1
 urllib3==1.26.14 
 langdetect 
 streamlit
-moviepy 
+moviepy==1.0.3
 beautifulsoup4 
 requests
 imageio[ffmpeg]  # Ensures ffmpeg is installed for moviepy
