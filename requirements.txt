@@ -19,3 +19,5 @@ beautifulsoup4
 requests
 imageio[ffmpeg]  # Ensures ffmpeg is installed for moviepy
 numpy  # Required for moviepy and other possible dependencies
+httpx==0.24.1
+httpcore<0.17.0
